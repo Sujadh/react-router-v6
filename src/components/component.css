@@ -1,0 +1,28 @@
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 100%;
+  margin: 20px;
+}
+
+.header{
+  background-color: rgb(74, 204, 255);
+  height: 100px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  box-shadow: 0 10px 10px -10px #222;
+}
+
+.header-content{
+  text-align: start;
+  font-size: xx-large;
+}
+
+.footer{
+  background-color: rgb(74, 204, 255);
+  position: fixed;
+  bottom: 0;
+  height: 20px;
+  width: 100%;
+}

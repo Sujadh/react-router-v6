@@ -1,0 +1,10 @@
+.about {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: green;
+  color: yellow;
+  font-size: xx-large;
+}
